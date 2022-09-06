@@ -1,0 +1,15 @@
+E:\_GB\C_Ceminar3\example003_sem3\bin\Debug\net6.0\example003_sem3.exe
+E:\_GB\C_Ceminar3\example003_sem3\bin\Debug\net6.0\example003_sem3.deps.json
+E:\_GB\C_Ceminar3\example003_sem3\bin\Debug\net6.0\example003_sem3.runtimeconfig.json
+E:\_GB\C_Ceminar3\example003_sem3\bin\Debug\net6.0\example003_sem3.dll
+E:\_GB\C_Ceminar3\example003_sem3\bin\Debug\net6.0\example003_sem3.pdb
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.csproj.AssemblyReference.cache
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.GeneratedMSBuildEditorConfig.editorconfig
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.AssemblyInfoInputs.cache
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.AssemblyInfo.cs
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.csproj.CoreCompileInputs.cache
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.dll
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\refint\example003_sem3.dll
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.pdb
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\example003_sem3.genruntimeconfig.cache
+E:\_GB\C_Ceminar3\example003_sem3\obj\Debug\net6.0\ref\example003_sem3.dll
